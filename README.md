@@ -1,2 +1,1 @@
-# SusReach
-official production codebase for our small startup
+This is the codebase for SusReach, now in incubation under the IDEAS cohort, please take permision from Dhairya Kantawala (dhairya@iitb.ac.in) before changing anything in the production code.
