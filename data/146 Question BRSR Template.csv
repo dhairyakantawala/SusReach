@@ -1,0 +1,732 @@
+#Question Ref.,Reporting Requirement,Definitions,Department
+1.1,Corporate Identity Number (CIN) of the Listed Entity,"Corporate Identification Number (CIN) is a 21 digits alpha-numeric code issued to companies incorporated within the country on being registered by the ROC situated in different states across India under the MCA. CIN is provided to all companies registered in India, which include: Private Limited Companies (PLCs)",Secretarial
+1.2,Name of the Listed Entity,General Details,Secretarial
+1.3,Year of incorporation,General Details,Secretarial
+1.4,Registered office address,General Details,Secretarial
+1.5,Corporate address,General Details,Secretarial
+1.6,Email,General Details,Secretarial
+1.7,Telephone,General Details,Secretarial
+1.8,Website,General Details,Secretarial
+1.9,Financial year for which reporting is being done,General Details,Secretarial
+1.1,Name of the Stock Exchange(s) where shares are listed,"Bombay Stock Exchange, National Stock Exchange of India, Multi Commodity Exchange of India etc.",Secretarial
+1.11,Paid-up Capital,Paid-up capital is money that a company receives from selling stock directly to investors.,Secretarial
+1.12,"Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report","Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report ",Secretarial
+1.13,"Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements, taken together).",The BRSR seeks disclosure of the reporting boundary i.e. whether the reporting is done for the entity on a stand-alone or consolidated basis. Listed entities shall ensure consistency in reporting boundary across the report & provide detailed disclosures such as any addition of manufacturing plants / units / capacity during the FY,Finance
+1.14,Name of assurance provider,,Finance
+1.15,Type of assure obtained,,Finance
+1.16,"Details of business activities (accounting for 90% of the turnover) in line with those given in Form MGT-7:
+-  Description of Main Activity 
+- Description of Business Activity
+- % of Turnover of the entity",The details of business activities shall be in line those given in Form MGT-7 prescribed by MCA.  Activities accounting for more than 90% of turnover should be mentioned. ,Finance
+1.17,"Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+- Product / Services
+- National Industrial Classification (NIC) Code 
+- % of total Turnover contributed","1. The entity shall disclose the top products manufactured or services provided by the listed entity that account for 90% of its turnover (in descending order) along-with the individual contribution of such products / services to the total turnover. 
+
+2. The National Industrial Classification (NIC) codes are available at the following link: http://mospi.nic.in/classification/national- industrial-classification/alphabetic-index-5digit.",Finance
+1.18,Number of locations where plants and/or operations/offices of the entity are situated (National & International),"This will include the 'number' of all stores, corporate offices and warehouses. ",Finance
+1.19,"--- Markets served by the entity (Number of locations)
+       - National (No. of States)
+       - International (No. of Countries)
+---What is the contribution of exports as a percentage of the total turnover of the entity
+---A brief on types of customers","The company’s turnover is the number of sales that they have made in their accounting period. 
+",Finance
+"1.20 / 3.2.2 , 3.2.3 , 3.2.4 ","Employee and worker details at the end of financial year along with details of Permanent / Other Than Permanent Staff and their gender
+Identification of differently abled Employees and workers ( along with employement type like Permanent / Other Than Permanent Staff and gender)","1. The entity shall disclose the total number of employees and workers, along-with the associated break-up by gender (male / female) and into permanent / other than permanent.
+
+2. The term “Employee” is defined under Sec 2(l) of the Industrial Relations Code, 2020 and means, any person (other than an apprentice engaged under the Apprentices Act, 1961), employed on wages by an establishment to do any skilled, semi-skilled or unskilled, manual, operational, supervisory, managerial, administrative, technical or clerical work for hire or reward, whether the terms of employment be express or implied, and also includes a person declared to be an employee by the appropriate Government, but does not include any member of the Armed Forces of the Union. Ref- http://egazette.nic.in/WriteReadData/2020/222118.pdf 
+
+3. The term “Worker” is defined under Sec 2(zr) of the Industrial Relations Code, 2020 and means any person (except an apprentice as defined under clause (aa) of section 2 of the Apprentices Act, 1961) employed in any industry to do any manual, unskilled, skilled, technical, operational, clerical or supervisory work for hire or reward, whether the terms of employment be express or implied, and includes working journalists as defined in clause (f) of section 2 of the Working Journalists and other Newspaper Employees (Conditions of Service) and Miscellaneous Provisions Act, 1955 and sales promotion employees as defined in clause (d) of section 2 of the Sales Promotion Employees (Conditions of Service) Act, 1976, and for the purposes of any proceeding under this Code in relation to an industrial dispute, includes any such person who has been dismissed, discharged or retrenched or otherwise terminated in connection with, or as a consequence of, that dispute, or whose dismissal, discharge or retrenchment has led to that dispute, but does not include any such person -— (i) who is subject to the Air Force Act, 1950 (45 of 1950), or the Army Act, 1950 (46 of 1950), or the Navy Act, 1957 (62 of 1957); or (ii) who is employed in the police service or as an officer or other employee of a prison; or (iii) who is employed mainly in a managerial or administrative capacity; or (iv) who is employed in a supervisory capacity drawing wages exceeding eighteen thousand rupees per month or an amount as may be notified by the Central Government from time to time. Ref.- http://egazette.nic.in/WriteReadData/2020/222118.pdf 
+
+4. The term “permanent employee or “permanent worker” refers to an employee or worker, employed for full-time or part- time work, for an indeterminate period. The term “other than permanent employee” or “other than permanent worker” refers to employees or workers who are employed for a fixed term that ends when a specific time period expires, or on completion of a specific task or an event such as the end of a project or return of a replaced employee. “Other than permanent” employees or workers could be employed directly by the entity or through third party contractors. 
+
+5. Differently abled employees / workers may be identified on the basis of the definition of “persons with disabilities” in The Rights of Persons with Disabilities Act, 2016 and rules made thereunder. 
+
+6. The entity should provide details as at the end of the reporting period; however, in case there is any significant change in number of employees / workers from the beginning to the end of the reporting period, the reasons for the same should be indicated",Human Resource
+"1.21, 206a.1","Participation/Inclusion/Representation of women in terms of No. and percentage of Females at:
+- Board of Directors
+- Key Management Personnels","Mention the ratio of male and female member in the Board of Directors and Key Management Personnels
+
+Key Management Personnel as defined under Sec 2(51) of the Companies Act 2013, in relation to a company, means— 
+(i) the Chief Executive Officer or the managing director or the manager; 
+(ii) the company secretary; 
+(iii) the whole-time director; 
+(iv) the Chief Financial Officer; and 
+(v) such other officer as may be prescribe",Secretarial
+1.22,"Turnover rate for permanent employees and workers (Separate details for Male and Female):
+- For Current FY
+- Previous FY","1. Under this field, the entity shall disclose turnover rates for the specified categories. 
+
+2. The entity shall calculate the turnover rate for a financial year, for a particular category, based on the following formula: (No. of persons who have left the employment of the entity in the FY *100) / Average no. of persons employed in the category 
+
+3. Average number of persons employed in a category shall be calculated as (Persons employed in the category at the beginning of FY + Persons employed in the category at the end of FY) / 2. Further, persons leaving the employment of the entity shall include those who leave the entity voluntarily or due to dismissal, termination, retirement or death in service.",Human Resource
+1.23," Names of holding / subsidiary / associate companies / joint ventures:
+- Name of the holding / subsidiary /associate companies / joint ventures
+- Indicate whether holding/ Subsidiary/ Associate/ Joint Venture
+- % of shares held by listed entity","This question gives insight into the entity’s corporate structure & the level of complexity of the group.
+1. As defined under Sec 2(10) of the Companies Act 2013, ""associate company"", in relation to another company, means 
+a company in which that other company has a significant influence, but which is not a subsidiary company of the 
+company having such influence and includes a joint venturecompany.
+Explanation—For the purpose of this clause—(a) the expression ""significant influence"" means control of at least twenty per cent of total voting power, or control of or participation in business decisions under an agreement;(b) the expression ""joint venture"" means a joint arrangement whereby the parties that have joint control of the arrangement have rights to the net assets of the 
+arrangement;
+2. As defined under Sec 2 (46) of the Companies Act 2013,holding company"", in relation to one or more other companies, means a company of which such companies are subsidiary companies;
+Explanation—For the purposes of this clause, the expression ""company"" includes any body corporate.
+3. As defined under Sec 2(87) of the Companies Act 2013, subsidiary company or subsidiary, in relation to any other 
+company (that is to say the holding company), means a company in which the holding company—
+(i) controls the composition of the Board of Directors; or (ii) exercises or controls more than one-half of the total voting 
+power either at its own or together with one or more of its subsidiary companies:
+Explanation—For the purposes of this clause, —
+(a) a company shall be deemed to be a subsidiary company of the holding company even if the control referred to in sub_x0002_clause (i) or sub-clause (ii) is of another subsidiary company of the holding company;
+(b) the composition of a company's Board of Directors shall be deemed to be controlled by another company if that other 
+company by exercise of some power exercisable by it at its discretion can appoint or remove all or a majority of the 
+directors;
+(c) the expression ""company"" includes any body corporate;
+(d) ""layer"" in relation to a holding company means its 
+subsidiary or subsidiaries.
+",Finance
+1.24,"CSR Details:
+(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) 
+(ii) Turnover (in Rs.) 
+(iii) Net worth (in Rs.)","Every Company having (a) net worth of rupees five hundred crore or more, or (b) turnover of rupees one thousand crore or more or (c) a net profit of rupees five crore or more (net profit calculated in accordance with Section 198) during the immediately preceding financial year shall constitute a Corporate Social Responsibility Committee.",Finance
+1.25,"Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct for Current & Previous FY from stakeholders (Communities; Investors (other than shareholders); Shareholders; Employee & Workers; Customers; Value Chain Partners; Others if any):
+- Grievance Redressal Mechanism in Place (Yes/No) (If Yes, then provide web-link for grievance redress policy) 
+- Number of complaints filed during the year
+- Remarks (If Any)","Mention whether there is a greivance redressal mechanism  for details related to 9 Principles of BRSR
+
+1. Stakeholders are individuals or groups concerned or interested with or impacted by the activities of the businesses and vice-versa, now or in the future. Typically, stakeholders of a business include, but are not limited to, its investors, shareholders, employees and workers (and their families), customers, communities, value chain members and other business partners, regulators, civil society actors, and media. 
+
+2. Grievance Redressal Mechanism refers to a mechanism for any stakeholder individually or collectively to raise and resolve reasonable concerns affecting them without impeding access to other judicial or administrative remedies. The mechanism should be: Transparent and unbiased governance structures Accessible Based on dialogue and mediation 
+
+3. An organization’s value chain encompasses the full range of an organization’s upstream and downstream activities that convert input into output by adding value. It includes entities with which the organization has a direct or indirect business relationship and which either (a) supply products or services that contribute to the organization’s own products or services, or (b) receive products or services from the organization",Secretarial
+1.26,"Overview of the entity’s material responsible business conduct issues pertaining to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as per the following format:
+- Material issue identified
+- Indicate whether risk or opportunity (R/O)
+- Rationale for identifying the risk / opportunity
+- In case of risk, approach to adapt or mitigate
+- Financial implications of the risk or opportunity(Indicate positive or negative implications)","Under this section, the entity shall disclose the material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to its business, along-with the following:
+
+1.  Classify the risk / opportunity as environment or social and provide its description. For instance, risk arising from climate change can include impact on operations, worker health, demand for products or services etc. Climate change opportunities can include cost savings through resource efficiency, development of new products and services, access to new markets etc. 
+
+2. Rationale for identifying the risk, which may include a description of the impact associated with the risk or opportunity. 
+
+3. In case of identified risks, approach to mitigate or adapt to the risk. 
+
+4. Indicate the positive and negative impact of such risk or opportunity on the financials of the company. The company shall make qualitative disclosures in this regard and should not include any forward looking quantitative information. However, in case of previous years, impact can be disclosed in quantitative terms. The entity may consider impact on parameters such as demand for products & services/ capital or operational costs/, investment opportunities etc.",Group Level
+2.1-6,"Policies and processes put in place towards adopting the NGRBC Principles and Core Elements:
+- Whether your entity’s policy/policies cover each principle and its core elements of the NGRBCs. (Yes/No)
+- Has the policy been approved by the Board? (Yes/No)
+- Web Link of the Policies, if available","The question attempts to provide transparency between the organization & its stakeholders regarding the entity’s policy commitment towards NGRBCs.
+The entity ought to disclose in Yes/No or ✓/🗴 format with appropriate links to 
+public content.
+NGRBC principle are:
+1. Integrity, Ethics, Tranparent and Accountable business
+2. Sustainble and safe procurment / product
+3. Well being of employee and those in value chain
+4. Stakeholder interest
+5. Human rights
+6. Environment
+7. Influencing Public and Regulatory policy
+8. Inclusive growth and equitable development
+9. Consumer and IT",Secretarial
+2.1-6,Whether the entity has translated the NGRB policy into procedures.,"This question attempts to link policy commitments to their actual implementation.
+The entity ought to disclose in Yes/No or ✓/🗴 format with appropriate links to 
+public content",Secretarial
+2.1-6,"Do the enlisted policies extend to your value chain partners?
+1. Integrity, Ethics, Tranparent and Accountable business
+2. Sustainable and safe procurement / product
+3. Well being of employee and those in value chain
+4. Stakeholder interest
+5. Human rights
+6. Environment
+7. Influencing Public and Regulatory policy
+8. Inclusive growth and equitable development
+9. Consumer and IT","Overview / Objective: To help increase entity efficiency so the businesses can be in consonance with sustainability & responsibility goals.
+The entity ought to disclose in Yes/No or ✓/🗴 format with appropriate links to 
+public content.",Secretarial
+2.1-6,"Name of the national and international codes/certifications/labels/ standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest Alliance, Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity and mapped to each principle","Overview / Objective: To enhance the relative trustworthiness of the sustainability data published by the entity.
+The entity shall disclose in Yes/No or ✓/🗴 format against each of the 9 principles 
+with appropriate links to public content. Also, they can mention name of the 
+national & international codes/certifications/labels/ standards voluntarily.",Secretarial
+2.1-6 / 2.1,"Specific commitments, goals and targets set by the entity with defined timelines, if any.","1. Under this field, the entity may disclose if it has any specific commitment, goal or target against any of the principles. Such disclosures may include the following:  Baseline and context for goals and targets  Entities covered such as subsidiaries / associates / joint ventures / value chain partners  Expected result or outcome, in quantitative or qualitative terms  Expected timeline for achieving each goal and target  Whether goals and targets are mandatory (based on legislation) or voluntary. If they are mandatory, the organization should list the relevant legislation. 2. The entity shall state the performance achieved against each goal or target. Any change in goals with regard to timelines, partial achievement of a goal or delay in achievement should also be specifically indicated, and where possible, with reasons. 3. The entity need not strictly follow the tabular format for this disclosure. The issues for each principle can be covered in a running format.",Secretarial
+2.1-6,"Performance of the entity against the specific commitments, goals and targets along-with reasons in case the same are not met.","Objective is to evaluate the entity’s Performance against its set Commitments. 
+Comprehensive Details about the goals & targets set by the entity covering its subsidiaries / associates / joint ventures / value chain partners. The entity is not mandated to follow the tabular format. It can follow running format too.
+The entity shall state the performance achieved against each goal or target. Any change in goals with regard to timelines, partial achievement of a goal or delay in achievement should also be specifically indicated, & where possible, with reasons",Secretarial
+2.7,"Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and achievements","It gives insight into entity contribution towards sustainable development including the key events, achievements, & failures associated with the business.The listed entity shall include a statement from the director who is responsible for preparation of the report, highlighting the relevance of sustainability to the organization. Such statement can include the following:
+-The overall vision and strategy of the 
+organization for the short-term, medium_x0002_term, and long-term, with respect to managing the significant environmental and 
+social impacts that the organization causes, contributes to, or that are directly linked to its activities, products or services 
+- Strategic priorities and key topics for the short and medium-term with respect to sustainability
+-Broader trends influencing the sustainability priorities of the entity
+-Key events, achievements, and failures during the reporting period
+- Views on performance with respect to targets
+- Outlook on the organization’s main challenges and targets 
+- Any other items pertaining to the organization’s strategic approach
+",Secretarial
+2.8,Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies).,"Overview / Objective: It ensures accountability & increases the awareness & understanding of climate-related risks & opportunities within the entity which results in better risk management & more informed strategic planning
+1. For the policies disclosed at Question 1 of Section B, the entity shall disclose the highest executive authority in the organization who is responsible for their implementation and highest authority responsible for oversight. Such authority could be a director of the board, committee of the board,senior management personnel or a committee of employees. 
+2. In case a committee is the highest authority, then the composition of the committee shall be disclosed, including the following: name of individuals, designation and in case of director, DIN and category (Chair / ED / NED / ID).
+3. In case an individual is the highest authority, the name, designation and in case of director, DIN and category (Chair / ED / NED / ID) shall be disclosed.
+4. In case, different authorities are responsible for the implementation of different policies, the samemay be indicated.",Secretarial
+2.9,"Does the entity have a specified Committee of the Board/ Director responsible for decision making on sustainability related issues? (Yes / No). If yes, provide details.","It ensures accountability & increases the awareness & understanding of climate-related risks & opportunities within the entity which results in better risk management & more informed strategic planning.
+1. The entity shall indicate ‘Yes’ if it has a specified Committee of the Board or a director of the Board of the entity who is responsible for decision making on sustainability related issues. 
+2. In case a Committee of the Board is responsible, its composition shall be disclosed, including the following: name of individual, designation and in case of director, DIN and category (Chair / ED / NED / ID). In case a director is responsible, DIN 
+and category (Chair / ED / NED / ID) shall be disclosed.
+3. In case the response to this question is the same as that to question 8, the entity need not repeat its response and can cross-refer to the same.",Secretarial
+2.1,"Details of following review of NGRBCs by the company indicating whether review was undertaken by Director / Committee of the Board/ Any other Committee and frequency:
+- Performance against above policies and follow up action
+- Compliance with statutory requirements of relevance to the principles, and, rectification of any non-compliances","Overview / Objective: In order to be effective & transparent & to have better risk management & more informed strategic planning.
+The entity shall disclose in Yes/No or ✓/🗴 format against each of the 9 principles with appropriate 
+links to public content with cross referencing to Question 8 &9. If required, entity shall disclose in 
+format requested by SEBI/MCA.",Secretarial
+2.11,"Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? (Yes/No). If yes, provide name of the agency.","In order to ensure the relative trustworthiness of the sustainability data published by the entity & to offer credibility of such disclosure.
+The entity shall disclose in Yes/No or ✓/🗴 format against each of the 9 principles 
+with appropriate links to public content & name of the agency responsible for 
+conducting assessment/evaluation.",Secretarial
+2.12,"If all Principles are not covered by a policy, reasons to be stated.
+- The entity does not consider the Principles material to its business (Yes/No) 
+- The entity is not at a stage where it is in a position to formulate and implement the policies on specified principles (Yes/No) 
+- The entity does not have the financial or/human and technical resources available for the task (Yes/No) 
+- It is planned to be done in the next financial year (Yes/No) 
+- Any other reason","To give information on how the organization has determined its material topics and to explain why any principle omitted was not material (Was it postponed to be followed later? Was it because of lack of resources-financial/ manpower technical resources).
+The entity shall disclose their reasons if they are not following any one of the 
+above 9 principles of NGRBC.",Secretarial
+3.1,"Percentage coverage by training and awareness programmes on any of the Principles during the financial year by directors, KMPs, Employees and Workers.
+
+- Total number of training and awareness programmes held
+- Topics / principles covered under the training and its impact
+- % of persons in respective category covered by the awareness programmes","This gives insight into how the organization embeds its policy commitments for responsible business conduct, including the commitment to respect human rights, throughout its activities. It also ensures that everyone in the organization is aware about the policies & respects human rights.
+How to measure?-Enter the total number of training & awareness programmes held for each of the given segments of stakeholders & the percentage of such persons covered by awareness programmes conducted on the Principles under NGRBC for each category of stakeholder in the current financial year.
+How to disclose?-The entity shall disclose topics/policies/NGRBC's principles covered & its impact on their normal day to day business activities such as:Health & Safety, Environment & Biodiversity Conservation, POSH Training, Code of Conduct Awareness, etc.",Secretarial
+3.2,"Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format: 
+- NGRBC Principle
+- Name of the regulatory/enforcement agencies / judicial information
+- Amount (In INR)
+- Brief of the Case
+- Has an appeal been preferred","This gives insight into the ability of management to ensure that the organization conforms to certain performance parameters & to enable stakeholders to evaluate the efficacy & scope of enterprise risk management.
+Under this field, the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website.",Legal
+3.3, Details of the Appeal/ Revision preferred in cases where monetary or non-monetary action has been appealed (Case Name and Name of Regulatory / enformcement agency).,"This gives insight into the ability of management to ensure that the organization conforms to certain performance parameters & to enable stakeholders to evaluate the efficacy & scope of enterprise risk management.
+The entity shall disclose information on basis of materiality as specified in Regulation 30 of SEBI 
+LODR, 2015 & as disclosed on the entity’s website.",Legal
+3.4,"Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to the policy","It enables the stakeholders to know about the entity's compliance with the applicable laws relating to bribery & corruption & illuminates entity values & a commitment towards high standards of ethical conduct.
+The disclosure on the anti-corruption or anti_x0002_bribery policy may include the following:
+- Risk assessment procedures and internal controls
+-Mechanism to deal with complaints on bribery / corruption
+-Coverage of trainings on anti-corruption issues",Secretarial
+3.5,Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/ corruption during current and previous FY.,"It enables the stakeholders to know about the entity's compliance with the applicable laws relating to bribery & corruption & illuminates entity values & a commitment towards high standards of ethical conduct.
+Enter the number of complaints / cases of bribery/corruption/ registered in the current & previous financial year against the entity/employee(s) of the entity with law enforcement agencies or lodged with the Entity internally.
+SES Note: The entity may also disclose corrective action taken, complaints closed, complaints pending & complaints acted upon",Secretarial
+3.6,"Details of complaints with regard to conflict of interest for current and previous FY:
+- Number of complaints received in relation to issues of Conflict of Interest of the Directors
+- Number of complaints received in relation to issues of Conflict of Interest of the KMPs","It enables the stakeholders to know about the entity's compliance with the applicable laws relating to bribery & corruption & illuminates entity values & a commitment towards high standards of ethical conduct.
+Enter the number of complaints w.r.t. conflict of interest whistle-blower complaints in the current & previous financial year against the Directors & KMPs of the entity with law enforcement agencies or lodged with the Entity internally",Secretarial
+3.7,"Details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.","It enables the stakeholders to know about the entity's compliance with the applicable laws relating to bribery & corruption & illuminates entity values & a commitment towards high standards of ethical conduct.
+Elaborate on the corrective steps taken/underway & if they were/are in line with standard 
+entity policies",Secretarial
+3.8,Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured),,Finance
+3.9,"Open-ness of business.
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances & investments, with related parties","A. Purchases from trading houses as % of total purchases:
+Number of trading houses where purchases are made from top 10 trading houses as % of total purchases from trading houses.
+
+B. Sales to dealers / distributors as % of total sales:
+Number of dealers / distributors to whom sales are made to top 10 dealers / distributors as % of total sales to dealers / distributors
+
+C. Share of RPTs (as respective %age) in - 
+a. Purchases 
+b. Sales 
+c. Loans & advances 
+d. Investments ",Finance
+3.1,"Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+- Total number of awareness programmes held
+- Topics / principles covered under the training
+- %age of value chain partners covered (by value of business done with such partners) under the awareness programmes","Mention awarness programmes conducted on ethics, transparent and accountable conduct.
+
+An organization’s value chain encompasses the full range of an organization’s upstream and downstream activities that convert input into output by adding value. It includes entities with which the organization has a direct or indirect business relationship and which either (a) supply products or services that contribute to the organization’s own products or services, or (b) receive products or services from the organization",Secretarial
+3.11,"Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, provide details of the same.","1. Conflict of interest refers to a situation where an individual is confronted with choosing between the requirements of his or her function and his or her own private interests. 
+2. The entity shall disclose whether there are processes to ensure that conflict of interests involving members of the Board/ KMPs are avoided or managed along-with details of such processes",Secretarial
+4.1,"Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and processes to total R&D and capex investments made by the entity, respectively in current and previous FY","Measuring expenditure on R&D on specific technologies to improve the environmental and social impacts: Casts light on major technological shifts & technological advantages, which also demonstrates how the entity has been focusing on mitigating its adverse environmental & social impact.
+The entity must disclose relevant financial data of Capital expenditure & R&D in new technologies 
+to improve the environmental & social impacts in current & previous FYs. The entity must disclose 
+exactly how the new technology had a positive impact on environment & society. ",Finance
+4.2,"a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+b. If yes, what percentage of inputs were sourced sustainably? ","By actively managing sustainable sourcing, companies act in their own interests, the interests of their stakeholders & the interests of society at large.
+1. “Sustainable Sourcing” essentially refers the integration of social, ethical and environmental performance factors into 
+the process of selecting suppliers.
+2. Under this field, the entity shall indicate what proportion of its inputs (by quantity or value – please specify) are sourced 
+from suppliers who are either covered by the company’s sustainable sourcing programmes and/or are certified to be 
+compliant with social and environmental standards such as SA 8000, ISO 14001, OHSAS 18001 or relevant labels like 
+Rainforest Alliance, Rugmark, RSPO etc",Secretarial
+4.3,"Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) 
+Hazardous waste and (d) other waste.","1. Reclaiming refers to collecting products and their packaging materials at the end of their useful lives, for reusing, or recycling or safe disposal. Reclaimed items can include products and their packaging materials that are collected by or on behalf of the organization, by a third-party contractor. 
+2. Preparation for re-use means checking, cleaning, or repairing operations, by which products or components of products are prepared to be put to use for the same purpose for which they were conceived. 
+3. Recycling refers to reprocessing of products or components of products, to make new materials. 4. Disposal refers to any operation which is not recovery. Further, safe disposal excludes uncontrolled waste disposal such as open burning and dumping.",Legal
+4.4,"Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the same.","“Extended Producer Responsibility” means the responsibility of a producer for the environmentally sound management of the product until the end of its life. The Uniform Framework for Extended Producers Responsibility issued by the Ministry of Environment, Forest and Climate Change places responsibility on producers, importers and brand owners to establish a system for collecting back the plastic waste generated due to their products and submit a plan for such collection with the relevant Pollution Control Board(s) (details available at http://moef.gov.in/guideline-document-uniform-framework_x0002_for-extended-producers-responsibility-under-plastic-waste_x0002_management-rules-2016/ ).
+The entity shall disclose whether it has EPR is applicable to them. Also it shall disclose how their waste collection plan is in line with EPR submitted to Pollution Control Boards & steps taken to address issues, if any.",Legal
+4.5,"Has the entity conducted Life Cycle Perspective /Assessments (LCA) for any of its products (formanufacturing industry) or for its services (for service industry)? If yes, provide details in the following format?
+- NIC Code
+- Name of Product / Service
+- % of total Turnover contributed
+- Boundary for which the Life Cycle Perspective / Assessment was conducted 
+- Whether conducted by independent external agency (Yes/No)
+- Results communicated in public domain(Yes/No)If yes, provide the web-link.","1. Product Life Cycle refers to all the stages of a product from extraction or acquisition of raw materials through manufacturing and processing, distribution and transportation, use and reuse, recycling and disposal. In the case of services, it refers to all activities and processes from the design to delivery. 2. Life cycle assessment is an analytical procedure that involves assessment of the potential environment or social impacts of a product or service, throughout its life cycle. 3. Boundary of LCA refers to the scope for which the assessment was conducted. For example, in the case of products, the boundary of LCA could be the following:  Cradle-to-grave is the full Life Cycle Assessment from resource extraction ('cradle') to use phase and disposal phase ('grave').  Cradle-to-cradle is a specific kind of cradle-to-grave assessment, where the end-of-life disposal step for the product is a recycling process.  Cradle-to-gate is an assessment of a partial product life cycle from resource extraction (cradle) to the factory gate (i.e., before it is transported to the consumer).",Secretarial
+4.6,"If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-with action taken to mitigate the same.
+- Name of Product / Service
+- Description of the risk / concern
+- Action Taken","It helps the Entity in realising the consequence of the activities involved in the production of its products & services & their subsequent consumption which in turn can support the organization in identifying opportunities for waste prevention & for adopting circularity measures.
+The entity shall disclose environmental & social risks associated with products or services, identified in the LCA or through other sources & steps/process in place to mitigate them.",Secretarial
+4.7,Percentage (input material wise) of recycled or reused input material to total material (by value) used in production / service for current and previous FY.,"This can predict the possible overloading on current waste management facility capacities & provide decision support for designing strategies to approach resource sustainability.
+How to measure?-Percentage of recycled input materials used =Total recycled input materials used/Total input materials usedx 100.
+How to disclose?-The entity shall disclose % recycled/reused material to be used as raw/input material used under the ecycle/reuse activity w.r.t total raw material used.
+The entity may use the total weight or the total volume of materials, for calculating this field.",IT
+4.8,"Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, as per the following format for current and previous FY.","This can predict possible overloading on current waste management facility capacities & provide decision support for designing strategies to approach resource sustainability.The entity shall disclose products & packaging reclaimed at end of life under 4 categories: Plastics, E-waste, Hazardous waste & Other. ",Legal
+4.9,Reclaimed products and their packaging materials (as percentage of products sold) for each product category.,The entity shall calculate the percentage of reclaimed products and their packaging materials for each product category using the following formula: Percentage of reclaimed products and their packaging materials = (Products and their packaging materials reclaimed within the reporting period) / (Products sold within the reporting period),Legal
+5.1,"(a,b) Details (Number & %) of measures for the well-being of employees and workers (Separately for Male / Female and Permanent / Other Than Permanent Staff):
+- Health Insurance
+- Accident Insurance
+- Maternity Benefits
+- Paternity Benefits
+- Day Care Facilities
+
+c. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the following format ","This disclosure gives insight into the organization’s approach towards employees & workers by understanding the kind & extent of benefits it offers. The quality of benefits offered has a key role/influence on an organization’s attrition rate. Policies like no gender bias for maternity & paternity leave can lead to the greater recruitment & retention of qualified employees. Offering health/accidental insurance & daycare facilities is a way to promote/ensure the mental well-being of the employee & their family.
+How to measure?-% of employees / workers covered for various benefits = (number of employee or workers covered for various benefits) / total number of permanent employees or workers.
+How to disclose?-In case the entity desires to disclose any benefits other than those specified in this field, additional columns may be added for such disclosures.",Human Resource
+5.2,"Details of retirement benefits (PF; Gratuty; ESIC; etc.), for Current FY and Previous Financial Year.
+- No. of employees covered as a % of total employees
+- No. of workerscovered as a % of total workers 
+- Deducted and deposited with the authority(Y/N/N.A.)","In the interest of employees: to provide security. Offering retirement benefits is a way to promote/ensure the mental well-being of the employee & their families as well as the organization’s willingness to have a long-term association with its employees & workers.
+The entity shall disclose relevant data of % of employees & workers covered under various schemes such as PF, Gratuity, ESI, & any other employee Fund for current & previous FYs as per the BRSR format.",Human Resource
+5.3,"Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.","Accessibility refers to physical accessibility such as wheelchair ramps, braille signage and accessible restrooms, and digital accessibility, where information and communication technology is accessible to all and/or compatible with assistive technology devices.
+The entity shall disclose whether the organization's premises/office spaces are accessible to differently-abled employees & workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016 or not. 
+The entity is required to disclose the actions being taken by it ensure such compliance.",Human Resource
+5.4,"Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy. ","Freedom from discrimination is a human right & a fundamental right at work. Discrimination can impose unequal burdens on individuals or deny fair opportunities on the basis of individual merit.The entity shall disclose whether it has an equal opportunity policy & also share the 
+weblink of the policy.",Human Resource
+5.5,Return to work and Retention rates of permanent employees and workers that took parental leave (Separately for Male & Female),"1. Parental leave refers to maternity and paternity leave. 2. The entity shall use the following formulas to calculate return to work rate, for each category of employee (male / female / others): (Total number of employees that did return to work after parental leave in the reporting period * 100)/ (Total number of employees due to return to work after taking parental leave in the reporting period) = Return to work rate 3. Retention rate determines who returned to work after parental leave ended and were still employed 12 months later. It shall be calculated using the following formula: (Total number of employees retained 12 months after returning to work following a period of parental leave * 100)/ (Total number of employees returning from parental leave in the prior reporting period)",Human Resource
+5.6,"Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, give details of the mechanism in brief.
+- Permananet Workers
+- Other than permanent workers
+- Permanent Employees
+- Other than permanent employees","Gives an overview of whether there exists a channel for an employee to voice his/her concern over any grievances & how the entity resolves them in order to ensure that the organization can provide for or cooperate in the remediation of negative impacts that it identifies it has caused or contributed to.
+The entity shall disclose whether there is a grievance redressal mechanism in place for permanent as well as contractual employees & workers. Also, the entity shall share the details of the Grievance Redressal Mechanism for permanent & temporary employees & 
+workers in brief.",Human Resource
+5.7,"Membership of permanent employees and worker (separetly for male and female) in association(s) or Unions recognised by the listed entity for current and previous FY.
+- Total employees / workers in respective category
+- No. of employees / workers in respective category, who are part of association(s) or Union",Gives insights into whether or not the employees' freedom of association & collective bargaining is respected by the entity. Data from both the previous & the current year improves comparability & transparency.The entity shall disclose number & percentage of employees as well as workers on basis of gender & in totality as members of associations/unions. ,Human Resource
+5.8,"Details of training given to number of employees and workers for current and previous FY with bifurcation of Male / Female and Employee / Workers.
+- On Health and safety measures 
+- On Skill upgradation","This disclosure indicates the proportion of the employees & workers that can reasonably be assumed to have been sensitized to the importance of human rights. Also it gives an insight about an entity’s policy commitments for responsible business conduct, including the commitment to respect human rights.
+1. Training on health and safety can include 
+general training on health and safety as well 
+as training on specific work-related hazards, 
+hazardous activities, or hazardous situations. It can also include training on mental health.
+2. Training programs on skill upgradation can include both internal training courses andfunding support for external training or 
+education",Human Resource
+5.9,Details of performance and career develoment review to number of employees and workers for current and previous FY with bifurcation of Male / Female and Employee / Workers.,"Regular performance & career development reviews can also enhance employee satisfaction, which correlates with improved organizational performance. Regular performance & career development review refers to review based on criteria known to the employee / worker & his or her superior. This disclosure measures the extent to which an organization regularly appraises employee performance. Such a review is undertaken with the knowledge of the employee. The entity shall disclose no. & % of employees & workers whose performance & career development reviews have been conducted by the entity for current & previous FYs. ",Human Resource
+5.1,"a. Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the coverage such system? 
+b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity? 
+c. Whether you have processes for workers to report the work related hazards and to remove themselves from such risks. (Y/N)
+d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)","1. Occupational health and safety risk refers to the combination of the likelihood of occurrence of a work-related hazardous situation or exposure, and the severity of injury or ill health that can be caused by the situation or exposure. An occupational health and safety system is a systematic approach to manage such risks. 2. The listed entity shall disclose the processes used to identify work-related hazards and assess risks on a routine and non-routine basis. Work-related hazards refer to a source or situation with the potential to cause injury or ill health.",Human Resource
+5.11,"Details of safety related incidents (separetely for employee and workers), in the following format for current and previous FY:
+- Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+- Total recordable work-related injuries
+- No. of fatalities
+- High consequence work-related injury or ill-health (excluding fatalities)","1. The listed entity shall calculate the Lost Time Injury Frequency Rate (LTIFR) as follows: (No. of lost time injuries in FY x 1,000,000) / (Total hours worked by all staff in same FY) 2. Lost time is an indicator of the loss of productivity for an organization as a result of a work-related injury or ill-health. Work related injury and ill-health arise from exposure to hazards at work and are directly related to performance of work-related tasks. 3. Recordable work-related injury or ill-health results in any of the following: death, days away from work, restricted work or transfer to another job, medical treatment beyond first aid, or loss of consciousness. Under this disclosure, the listed entity shall disclose the total number of employees / workers affected by work-related injuries or ill-health, across all incidents during the reporting period and the prior year. In case the same employee or worker is injured multiple times, say thrice, in separate incidents, the same shall be reported as 3. 4. The entity shall report the report the number of fatalities of employees / workers during the reporting period and the prior year, as a result of work-related injury",Human Resource
+5.12,Describe the measures taken by the entity to ensure a safe and healthy work place,"1.Under this disclosure, the entity shall reportthe  measures taken to prevent or mitigate significant negative health and safety 
+impacts that are directly linked to its operations, products or services. Also indicate whether these measures are taken 
+for a specific set of activities, employees / workers or facilities of the entity",Admin
+5.13,"Number of Complaints on the ""Working condtion"" and ""Health & Saftey"" made by employees and workers in current and previous FY:
+- Filed during the year
+- Pending resolution at the end of year
+- Remarks (if any)","Gives insights into the attentiveness of the entity toward the working environment, how effective their grievance redressal system is, data from both the year improves comparability & transparency.The entity shall disclose number of complaints relating to working conditions as well as on health & safety as under for the current as well as previous financial years:
+• Filed during the year
+• Pending resolution at the year end
+• Remarks",Human Resource
+5.14,"Assessments for the year on ""Health and safety practices"" and "" Working Conditions"" in terms of % of your plants and offices that were assessed (by entity or statutory authorities or third parties)","The entity shall disclose the percentage of plants/offices assessed with respect to health & safety practices as well as working conditions, separately, along with the details of the Assessing party.",Human Resource
+5.15,Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / concerns arising from assessments of health & safety practices and working conditions.,"This disclosure gives an overview of the efforts taken by an entity to protect its workers & employees from health & safety related risks, & shows the commitment of a entity towards the protection & well-being of its employees.Shall share a brief of assessment results as per question No. 14 along with details of any/all 
+corrective actions underway/taken.",Human Resource
+5.16,Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers (Y/N).,Gives an overview of whether or not the entity is concerned about protecting the employees / workmen & their dependents in case they meet any accident or injury while working in the organization.The entity can disclose in Yes/No format whether it has such policy.,Human Resource
+5.17,Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain partners,"It gives insights into whether or not the entity’s value chain partners comply with the statutes & legal requirements.The Entity may disclose if it has a procurement policy in place w.r.t. value chain partners 
+which inter alia provides for a checklist comprising abovementioned condition.",Finance
+5.18000000000001,"Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment for Current & Previous FY:
+- Total no. of affected employees/ workers
+- No. of employees/workers that are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment","1. Of the employees / workers having suffered high consequence injuries / ill-health, the listed entity shall disclose the number of employees/ workers rehabilitated or placed in suitable employment during the reporting period. This disclosure can also include family members of the affected employees / workers, who have been placed in suitable employment. 2. ‘Rehabilitation’ refers to a process aimed at enabling persons with disabilities to attain and maintain optimal, physical, sensory, intellectual, psychological environmental or social function levels",Human Resource
+5.19000000000001,Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings resulting from retirement or termination of employment? (Yes/ No),"This disclosure provides insight into the scale of an organization’s investment in transition assistance programs to plan skills acquisition that equips employees to meet strategic targets in a changing work environment. For those facing retirement, confidence, & quality of work relations are improved by the knowledge that they are supported in their transition from work to retirement.The entity can disclose in Yes/No format whether it has such programs.",Human Resource
+5.20000000000001,"Details on assessment of value chain partners on ""Health and safety practices"" and ""Working Conditions"" indicating % of value chain partners (by value of business done with such partners) that were assessed","Allows the entity to locate weak & strong spots in its value chain for futuristic risk management & strategy purposes. Also this aids the entity to find out how they can be addressed with tactics or rebalanced with the general management strategy.The entity shall disclose the percentage of value chain partners assessed with respect to 
+health & safety practices as well as working conditions.",Secretarial
+5.21000000000001,Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of health and safety practices and working conditions of value chain partners.,"To show how much the entity is concerned about assessment of health & safety risks across value chain partners & adheres to industry-wide principles/morals.The entity can disclose details of action/measures taken or underway by/for value chain 
+partners to address risk/concerns during assessments.",Human Resource
+6.1,Describe the processes for identifying key stakeholder groups of the entity,"Gives insight into the organization’s approach to identifying & engaging with various stakeholders.Under this field, the entity shall disclose the basis for determining stakeholders and determining the groups with whom to engage or not to engage",Group Level
+6.2,"List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+- Stakeholder Group
+- Whether identified as Vulnerable & Marginalized Group (Yes/No)
+- Channels of communication (Email, SMS, Newspaper, Pamphlets, Advertisement, Community Meetings, Notice Board, Website), Other
+- Frequency of engagement (Annually/ Half yearly/ Quarterly / others – please specify) 
+- Purpose and scope of engagement including key topics and concerns raised during such engagement","1. The listed entity shall specify the channels of through which stakeholders can access relevant information and if applicable, whether such information is available in regional / local languages. 2. Vulnerable and Marginalized Groups refers to group of individuals who are unable to realize their rights or enjoy opportunities due to adverse physical, mental, social, economic, cultural, political, geographic or health circumstances. These groups in India can be identified on the basis, inter alia, of the following:  Gender and transgender (women, girls et al.)  Age (children, elderly et al.)  Descent/identity/ethnicity (caste, religion, scheduled castes, scheduled tribes, et al.)  Occupation (displaced, landless small / marginal farmers, migrant workers, et al.)  Persons with disability  Political or religious beliefs (Reference: National Guidelines for Responsible Business Conduct, available at the following link: https://www.mca.gov.in/Ministry/pdf/NationalG uildeline_15032019.pdf)
+The entity is required to:
+• Identify Stakeholder Groups
+• Disclose if they are identified as Vulnerable & Marginalized Group (Weblink)
+• Disclose channels of communication with them
+• Disclose frequency of engagement (Annually/ Half yearly/ Quarterly / others)
+• Disclose purpose & scope of engagement including key topics & concerns raised during 
+such engagement
+The entity shall specify the channels of through which stakeholders can access relevant 
+information & can report how it takes into account potential barriers to stakeholder 
+engagement (e.g., language & cultural differences, gender & power imbalances, divisions 
+within a community or group). ",Group Level
+6.3,"Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.","The entity shall disclose processes or methods of discussion/ consultation between stakeholders & the Board on economic, environmental, & social topics. Also the entity can disclose the methods of sharing feedback received during such consultation.",Group Level
+6.4,"Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies and activities of the entity","The entity can indicate if stakeholder engagement is used to support the identification and management of environmental, and social topics. If so, the entity can disclose the key concerns that have been raised through stakeholder engagement and how the organization has responded to this concern, including through changes or modifications in its policies or in its activities.For each concern, the entity should mention the stakeholder group that raised the concern.",Group Level
+6.5,"Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized stakeholder groups.","The entity can disclose the key concerns that have been raised through engagement with vulnerable/marginalized groups and how the organization has responded to this concern, including through changes or modifications in its policies or in its activities",Finance
+7.1,"Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format for current and previous FY.
+
+- Total Number of Employee / Workers
+- No. of employees / workers covered
+- % Covered","Training programs on human rights issues and policies for employees and workers could include aspects of human rights that are relevant to operations, including the applicability of the human rights policies or procedures to the work done by employees / workers",Human Resource
+7.2,"Details of minimum wages paid to employees and workers, in the following format for current and previous FY (Separate details for permanent / other than permanent and Male / Female employee and workers):
+- Total Employee / Worker
+- Number of employee / worker paid equal to Minimum Wage
+- Number of employee / worker paid more than Minimum Wage","Measuring wages & salaries contributes in the standardization of an equitable wage & compensation structure, as well as an understanding of pay disparities across different sections of employees.The Entity shall disclose in terms of number & percentage, male & female 
+employees & workers (permanent & contractual) who were paid:
+• Equal to minimum wage 
+• Above minimum wage
+as prescribed for both Current & Previous year.",Human Resource
+7.3,"Details of remuneration/salary/wages, in the following format:
+- Board of Directors (BoD)
+- Key Managerial Personnel
+- Employees other than BoD and KMP
+- Workers
+
+3B - Gross wages paid to females as % of total wages paid by the entity, in the following format:","The entity shall disclose the median (a) Board Pay; (b) KMP Pay; (c) Employee Pay; (d) Worker Pay; bifurcated into male & female categories, for the current as well as the previous financial year.
+Remuneration: As per Sec. 2(78) of Companies Act 2013, Remuneration means any money or its equivalent given or passed to any person for services rendered by him and includes perquisites as defined under the Income-Tax Act, 1961 (43 of 1961).
+2. Salary: As per the Income Tax Act, 1961, salary includes:
+i. wages,ii. any annuity or pension,iii. any gratuity,iv. any fees, commissions, perquisites or profits in lieu of or in addition to any 
+salary or wages ,v. any advance of salary,vi. the annual accretion to the balance at the credit of an employee participating in a 
+recognised provident fund, to the extent to which it is chargeable to tax under Rule 6 of Part `A' of the Fourth Schedule; and
+vii. the aggregate of all sums that are comprised in the transferred balance as referred to in sub-rule (2) of Rule 11 of Part A of the Fourth Schedule of an employee participating in a recognised provident fund, to the extent to which it is chargeable to tax under sub-rule (4) thereof Ref_x0002_https://www.incometaxindia.gov.in/Acts/Income_x0002_tax%20Act,%201961/1968/102120000002035669.htm
+Wages: As per Sec 2(y) of the Code on Wages, 2019, Wages means all remuneration whether by way of salaries, allowances or 
+otherwise, expressed in terms of money or capable of being so expressed which would, if the terms of employment, express or 
+implied, were fulfilled, be payable to a person employed in respect of his employment or of work done in such employment, and 
+includes: i. basic pay,ii. dearness allowance,iii. retaining allowance, if any, but does not include 
+a. any bonus payable under any law for the time being in force, which does not form part of the remuneration payable under the terms of employment
+b. the value of any house-accommodation, or of the supply of light, water, medical attendance or other amenity or of any 
+service excluded from the computation of wages by a general or special order of the appropriate Government
+c. any contribution paid by the employer to any pension or provident fund, and the interest which may have accrued thereon
+d. any conveyance allowance or the value of any travelling concession
+e. any sum paid to the employed person to defray special expenses entailed on him by the nature of his employment
+f. house rent allowance
+g. remuneration payable under any award or settlement between the parties or order of a court or Tribunal
+h. any overtime allowances
+i. any commission payable to the employee
+j. any gratuity payable on the termination of employment
+k. any retrenchment compensation or other retirement benefit payable to the employee or any ex gratia payment made to him on the termination of employment",Human Resource
+7.4,Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to by the business? (Yes/No),Indicates the seriousness with which human rights issues are looked at & investigated.The entity shall disclose in Yes/No format with appropriate links to public content,Human Resource
+7.5,Describe the internal mechanisms in place to redress grievances related to human rights issues. ,"It enable stakeholders to know how they can raise concerns about, & seek remedy for, the organization’s potential & actual negative impacts on them, also it shows an organization's commitment to remediate its negative impacts.The entity shall disclose working of the internal mechanisms in place to redress grievance/complaints related to human rights issues.",Human Resource
+7.6,"Number of Complaints on the following made by employees and workers for current and previous FY (Filled during the year; Pending for resolution and Remarks):
+- Sexual Harassment
+- Discrimination at workplace
+- Child Labour Forced 
+- Labour/Involuntary Labour
+- Wages 
+- Other human rights related \ issues","1. ‘Sexual Harassment’ includes any one or more of the following unwelcome acts or behaviour (whether directly or by implication) namely: i. physical contact and advances ii. a demand or request for sexual favours iii. making sexually coloured remarks iv. showing pornography v. any other unwelcome physical, verbal or non-verbal conduct of sexual nature 2. ‘Discrimination’ refers to unjust or prejudicial treatment of people, especially on the grounds of, but not limited to, caste, creed, sex, race, ethnicity, age, colour, religion, disability, socio-economic status or sexual orientation. 3. As per Sec 2(ii) of the Child Labour (Prohibition & Regulation) Act, 1986 (as amended), ‘Child’ means a person who has not completed is 14th year of age. It prohibits the employment of adolescents in the age group of 14 to 18 years in hazardous occupations and processes and regulates their working conditions where they are not prohibited.
+2. ‘Forced Labour’ or ‘Involuntary Labour’ refers to all work or service that is extracted under the menace of penalty. It also includes terms such as, bonded labour and modern slavery.It also includes any labour for which the worker receives less than the government_x0002_stipulated minimum wage.",Human Resource
+7.7,"Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the format provided","a. Total Complaints on Sexual Harassment (POSH) reported 
+b. Complaints on POSH as a % of female employees / workers
+c. Complaints on POSH upheld",Human Resource
+7.8,Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.,The entity must disclose the working/ mechanisms/methods in place to prevent adverse consequences of such complaints,Human Resource
+7.9,Do human rights requirements form part of your business agreements and contracts? (Yes/No),Shows the commitment of an entity to protect the human rights of its stakeholders.The entity shall disclose in Yes/No format with appropriate links to public content,Finance
+7.1,"Assessments for the year on Child labour, Forced/involuntary labour, Sexual harassment, Discrimination at workplace, Wages, Others – please specify on % of your plants and offices that were assessed (by entity or statutory authorities orthird parties)",The entity shall disclose such data in percentage - plants & offices that were assessed for above mentioned incidents,Human Resource
+7.11,Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 9 above.,The entity shall provide details of any corrective actions taken or underway to address significant risks relating to Human Rights in any form.,Human Resource
+7.12,Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.,The entity can disclose any new amendments/modification in existing policy/rules & regulation/processing as result of any human rights grievance/complaints,Human Resource
+7.13,Details of the scope and coverage of any Human rights due-diligence conducted.,The entity can disclose brief details of any due diligence conducted including the scope & extent/coverage of any/all human rights issues/topics.,Human Resource
+7.14,"Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with Disabilities Act, 2016?","Ensuring that the office/premises of the company are accessible to differently abled visitors.Accessibility refers to physical accessibility such as wheelchair ramps, braille signage and accessible restrooms, and digital accessibility, where information and communication technology is accessible to all and/or compatible with assistive technology devices.",Human Resource
+7.15,"Assessments of Value Chain Partners for the year on Child labour, Forced/involuntary labour, Sexual harassment, Discrimination at workplace, Wages, Others – please specify on % of your plants and offices that were assessed (by entity or statutory authorities orthird parties)","The entity shall disclose percentage of value chain partners that were assessed for each of the type of incidents, i.e. Sexual Harassment, Discrimination at workplace, Child Labour, Forced Labour/Involuntary Labour, Wages & Others.",Secretarial
+7.16,Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments above.,The entity shall disclose details of any corrective actions taken or underway to address significant risks concerning human rights incidents.,Secretarial
+8.1,"Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the following format for current and previous FY:
+- From renewable sources
+Total electricity consumption (A)
+Total fuel consumption (B)
+Energy consumption through other sources (C)
+Total energy consumed from renewable sources (A+B+C)
+- From non-renewable sources
+Total electricity consumption (D)
+Total fuel consumption (E)
+Energy consumption through other sources (F)
+Total energy consumed from non-renewable sources (D+E+F)","1. The entity shall report the total electricity consumed, fuel consumed and energy consumed from other sources during the reporting period, as applicable. Entities may also specify the other sources, in case the same are significant. 2. Energy can be purchased from sources external to the organization or produced by the organization itself (self-generated). If the organization generates electricity from a non-renewable or renewable fuel source and then consumes the generated electricity, the energy consumption shall be counted only once. 3. The above data shall be reported in terms of Joules or multiples such as Giga Joules. Entities should consistently apply conversion factors, for converting fuel consumption into Joules, for the data disclosed. In case, different standards and methodologies are used, the same should be disclosed. Entities should also disclose any contextual information necessary to understand how the data has been compiled, such as any standards, methodologies, assumptions and/or calculation tools used. 4. Energy intensity per rupee of turnover shall be calculated as the total energy consumed divided by the total turnover in rupees. 5. Apart from turnover, entities may on a voluntary basis, provide energy intensity ratio, based on other metrics, such as: • units of product; • production volume (such as metric tons, litres, or MWh); • size (such as m2 floor space); • number of full-time employees",Admin
+8.2,"Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any","Perform Achieve and Trade (PAT) scheme (“Scheme”) has been launched by Bureau of Energy Efficiency under the National Mission for Enhanced Energy Efficiency (NMEEE) [details available at the following link: https://beeindia.gov.in/content/pat-3]. Under the Scheme, certain sites / facilities are identified as designated consumers and targets are set for such entities in related to the energy consumption.The entity shall disclose in Yes/No format if it has any sites/facilities identified as designated consumers (DCs) under the Performance, Achieve, & Trade (PAT) Scheme, & if yes, disclose whether targets set under the scheme have been achieved. If not, disclose reasons for & remedial actions taken.",Finance
+8.3,"Provide details of the following disclosures related to water, in the following format for current and previous FY:
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+(ii) Groundwater
+(iii) Third party water
+(iv) Seawater / desalinated water
+(v) Others 
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity","1. The entity shall report the total water withdrawn for any use, along-with a break-up of its source into the following:  Surface water- refers to water that occurs naturally on the Earth’s surface in ice sheets, ice caps, glaciers, icebergs, bogs, ponds, lakes, rivers, and streams  Ground water – refers to water that is being held in, and that can be recovered from, an underground formation  Third party water – refers to municipal water and other private suppliers of water  Sea-water / desalinated water – refers to water in a sea or ocean  Other sources - Entities may specify the other sources, in case the same are significant. 2. The entity shall report the total water consumption. Total water consumption is a measure of water used by an organization, that it is no longer available for use by the ecosystem or local community, such as water that has been withdrawn and incorporated into products or has evaporated or is polluted to the point of being unusable by other users, and is therefore not released back to surface water, groundwater, seawater, or a third party. It also includes water that has been stored during the reporting period for use or discharge in a subsequent reporting period. If the entity cannot directly measure its water consumption, it may calculate this using the following formula: Total water consumption = Total water withdrawal – total water discharge. 3. Water intensity per rupee of turnover shall be calculated as the total water consumed divided by the total turnover in rupees. 4. Apart from turnover, entities may on a voluntary basis, provide water intensity ratio, based on other metrics, such as: • units of product; • production volume (such as metric tons, litres, or MWh); • size (such as m2 floor space); • number of full-time employees
+5. Entities should also disclose any contextual information necessary to understand how the data has been compiled, such as any standards, methodologies, assumptions and/or calculation tools used.",Admin
+8.4,"Provide the following details related to water discharged:
+Water discharge by destination and level of treatment (in kilolitres)
+(i) Surface water
+     - No treatemnt
+     - With treatment – please specify level of
+        treatment 
+(ii) To Groundwater
+     - No treatemnt
+     - With treatment – please specify level of
+        treatment 
+(iii) To Seawater
+     - No treatemnt
+     - With treatment – please specify level of
+        treatment 
+(iv) Sent to third-parties
+     - No treatemnt
+     - With treatment – please specify level of
+        treatment 
+(v) Others
+     - No treatemnt
+     - With treatment – please specify level of
+        treatment
+Total Water Discharged (in Klilolitres) ","1. The entity shall report the total water discharged i.e.  the total effluents, water released (unused or after  use) for which the organization has no further use,  along-with a break-up by destination (to surface  water, groundwater, seawater, sent to third parties  or others – refer the guidance at Question 3 of  Essential indicators under P6) and by level of  treatment.     
+
+2. The organization can break down its water discharge  by the following treatment levels:   
+- Primary treatment, which aims to remove solid  substances that settle or float on the water  surface;   
+- Secondary treatment, which aims to remove  substances and materials that have remained in  the water, or are dissolved or suspended in it;   
+- Tertiary treatment, which aims to upgrade water  to a higher level of quality before it is discharged.  It includes processes that remove, for example,  heavy metals, nitrogen, and phosphorus.   In case an organization withdraws and discharges  water of good quality that does not require  treatment, the same can be explained.      
+
+Water Discharge by destination and levels of Treatment:
+1. Untreated Water 
+2. Primary Treatment (Removal of material that floats or settle out i.e Filtration, Screening, Sedimentation etc.) 
+3. Secondary Treatment (Removal of Dissolved organic Matter i.e. Oxidation, Digestion etc.) 
+4. Tertiary Treatment (Disinfecting Water 
+i.e. removal of pathogens, Phosphorous, Nitrogen etc.) 
+
+3. Entities should also disclose any contextual  information necessary to understand how the data has been compiled, such as any standards, methodologies, assumptions and/or calculation tools used. ",Admin
+8.5,"Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.","A  zero liquid discharge system involves using advanced waste-water treatment technologies to recycle, recover and then re-use the treated waste-water; towards ensuring that there is not discharge of the waste-water to the environment.",Admin
+8.6,"Please provide details of air emissions (other than GHG emissions) by the entity, in the following format for current and previous FY:
+NOx
+SOx
+Particulate matter (PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Others – please specify","Entities should disclose any contextual information necessary to understand how the data has been compiled, such as any standards, methodologies, assumptions and/or calculation tools used",Admin
+8.7 / 4.2,"Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format for current and previous FY:
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)in Metric tonnes of CO2 equivalent
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available) in Metric tonnes of CO2 equivalent
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+Total Scope 1 and Scope 2 emission intensity (optional)– the relevant metric may be selected by the entity","1. The term ‘green-house gas’ covers the following gases:  Carbon dioxide (CO2), Methane (CH4), Nitrous oxide (N2O) ,Hydrofluorocarbons (HFCs), Perfluorocarbons (PFCs), Sulphur hexafluoride (SF6), Nitrogen trifluoride (NF3)
+ 2. Scope 1 emissions are direct GHG emissions from sources that are owned or controlled by the entity. Source refers to any physical unit or process that releases GHG into the atmosphere. Further, any emissions that are not physically controlled but result from intentional or unintentional releases of GHGs, such as equipment leakages, methane emissions (eg: from coal mines), shall also be included in the calculations.
+ 3. Scope 2 emissions are energy indirect emissions that result from the generation of purchased or acquired electricity, heating, cooling, and steam consumed by the entity.
+ 4. Entities may, on a voluntary basis, provide a break_x0002_up of the Scope 1 and Scope 2 emissions into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3.
+ 5. The entity shall exclude any GHG trades (purchase, sale or transfer of GHG emissions) from the calculation of Scope 1 and Scope 2 GHG emissions.
+6. The unit for the disclosures shall be metric tonnes of CO2 equivalent. Further, entities should disclose the standards, methodologies, assumptions and/or calculation tools used, including sources of the global warming potential (GWP) rates and emission factors used.
+7. Scope 1 and Scope 2 emission intensity per rupee of turnover shall be calculated as the total Scope 1 and 
+Scope 2 emissions generated divided by the total turnover in rupees. 
+8. Apart from turnover, entities may on a voluntary basis, provide Scope 1 and Scope 2 GHG emission intensity ratio, based on other metrics, such as:
+• units of product; 
+• production volume (such as metric tons, 
+litres, or MWh); 
+• size (such as m2 floor space); 
+• number of full-time employees",Admin
+8.8,"Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.","The reporting organization can prioritize disclosing reduction initiatives that were implemented in the reporting period, & that have the potential to contribute significantly to reductions. Reduction initiatives can include: process redesign; conversion & retrofitting of equipment; fuel switching; changes in behaviour; offsets, etc.",Admin
+8.9,"Provide details related to waste management by the entity, in the following format for current and previous FY:
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+E-waste (B)
+Bio-medical waste (C)
+Construction and demolition waste (D)
+Battery waste (E)
+Radioactive waste (F)
+Other Hazardous waste. Please 
+specify, if any. (G)
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e. by materials relevant to the sector)
+Total (A+B + C + D + E + F + G + H)
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+(ii) Re-used
+(iii) Other recovery operations
+Total
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+(ii) Landfilling
+(iii) Other disposal operations
+Total","1. The entity shall report the total waste generated in its activities, with a break-up as per the categories specified in various Waste Management Rules issued by the Ministry of Environment, Forests & Climate Change. 
+2. For each respective category of waste generated (plastic, e-waste, bio-medical waste, construction and demolition waste, battery waste, radio-active waste, other hazardous and other non-hazardous waste), the entity shall report the waste that is recovered through recycling, preparing for re-use or through other recovery operations. Guidance on these terms is given below:  Waste may be recovered through any operation wherein products, components of products, or materials that have become waste are prepared to fulfill a purpose in place of new products, components, or materials that would otherwise have been used for that purpose. Preparation for re-use and recycling are examples of recovery operations.  Preparation for re-use means checking, cleaning, or repairing operations, by which products or components of products that have become waste are prepared to be put to use for the same purpose for which they were conceived. Recycling refers to reprocessing of products or components of products that have become waste, to 
+make new materials.
+3. For each respective category of waste generated(plastic, e-waste, bio-medical waste, construction 
+and demolition waste, battery waste, radio-active waste, other hazardous and other non-hazardous 
+waste), the entity shall disclose the waste that is disposed with the break-up of the disposal method, 
+as follows:
+- Waste that is incinerated – incinerations refers to controlled burning of waste at high temperatures
+- Waste that is sent to a landfill - landfilling refers to depositing of waste in sanitary landfills, and excludes 
+uncontrolled waste disposal such as open burning and dumping
+-Other disposal operations: Entities may specify the other disposal operations used, in case the same are significant.
+4. Entities should disclose any contextual information necessary to understand the data, such as any standards, methodologies, assumptions and/or calculation tools used",Admin / Legal
+8.1,Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes.,"1. Under this field, the entity may consider including a description of the activities that lead to significant waste-related impact and the actions taken to manage the impact from such waste. Such actions could include the following:  Improving materials selection and product design  Using recycled, re-used or renewable materials  Substituting inputs that have hazardous characteristics with inputs that are non_x0002_hazardous
+ 2. If the waste generated by the organization in its own activities is managed by a third party, the entity may consider including a description of the processes used to determine whether the third party manages the waste in line with contractual or legislative obligations.",Admin
+8.11,"If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format:
+- Location of operations/offices
+- Type of operations
+- Whether the conditions of environmental approval / clearance are being complied with? (Y/N)If no, the reasons thereof and corrective action taken, if any.","The entity shall disclose location of operations/offices (along with type of operations) & whether the conditions of environmental approval / clearance are being complied with, in Yes / No format. If Not, the reasons thereof & corrective action taken, if any",Admin
+8.12,"Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial year:
+- Name and brief details of project
+- EIA Notification No.
+- Date
+- Whether conducted by independent external agency (Yes / No)
+- Results communicated in public domain (Yes / No)
+- Relevant Web link","This disclosure shall be made, if the entity has undertaken EIA in compliance with applicable environmental laws.",Legal
+8.13,"Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+- Specify the law / regulation / guidelines which was not complied with
+- Provide details of the non compliance
+- Any fines / penalties / action taken by regulatory agencies such as pollution control boards or by courts
+- Corrective action taken, if any","The entity shall disclose compliance with environmental laws in following format: • Non-compliance with particular environmental law along with details thereof • Fines/penalties/action taken by regulators like pollution control boards/ courts• Corrective action taken, if any",Legal
+8.15,"Water withdrawal, consumption and discharge in areas of water stress (in kilolitres). For each facility / plant located in areas of water stress, provide the following information for current and previous FY:
+(i) Name of the area
+(ii) Nature of operations
+(iii) Water withdrawal, consumption and discharge in the following format:
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+(ii) Groundwater
+(iii) Third party water
+(iv) Seawater / desalinated water
+(v) Others 
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres) 
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i) Into Surface water
+- No treatment
+- With treatment – please specify level of treatment
+(ii) Into Groundwater
+- No treatment
+- With treatment – please specify level of treatment
+(iii) Into Seawater
+- No treatment
+- With treatment – please specify level of treatment
+(iv) Sent to third-parties
+No treatment
+- With treatment – please specify level of treatment
+(v) Others
+- No treatment
+- With treatment – please specify level of treatment Total water discharged (in kilolitres)","1. Areas of water stress are those where there is inability to meet the human and ecological demand for water. It can refer to the availability, quality, or accessibility of water. Further, areas classified as “over-exploited” or “critical” by the Central Groundwater Board, shall fall under area of water stress (Reference: http://cgwb.gov.in/gwresource.html). 
+2. The entity may also refer to the guidance at Question 3 of Essential indicators and Question 2 of Leadership Indicators under P6.",Admin
+8.16 / 4.2,"Please provide details of total Scope 3 emissions & its intensity, in the following format in current and previous FY:
+- Total Scope 3 emissions(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available) in Metric tonnes of CO2 equivalent
+- Total Scope 3 emissions per rupee of turnover
+- Total Scope 3 emission intensity (optional) – the relevant metric may be selected by the entity","1. Scope 3 emissions are indirect GHG emissions (not included in energy indirect (Scope 2) GHG emissions) that occur outside of the organization, including both upstream and downstream emissions. 2. Upstream categories can include purchased goods and services, capital goods, upstream transportation and distribution, business travel, etc. Downstream categories can include downstream transportation and distribution, processing of sold products, end-of-life treatment of sold products etc. 3. Entities may, on a voluntary basis, provide a break_x0002_up of the Scope 3 emissions into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3. 4. The entity shall exclude any GHG trades (purchase, sale or transfer of GHG emissions) from the calculation of Scope 3 GHG emissions. 5. The unit for the disclosures shall be metric tonnes of CO2 equivalent. Entities should consistently apply global warming potential (GWP) rates and emission factors used for the data disclosed and also disclose the source of the rates / factors. Further, entities should disclose the standards, methodologies, assumptions and/or calculation tools used, including sources of the global warming potential (GWP) rates and emission factors used. 6. Scope 3 emission intensity per rupee of turnover shall be calculated as the total Scope 3 emissions generated divided by the total turnover in rupees. 10. Apart from turnover, entities may on a voluntary 
+basis, provide Scope 3 GHG emission intensity ratio, 
+based on other metrics, such as:
+• units of product; 
+• production volume (such as metric tons, 
+litres, or MWh); 
+• size (such as m2 floor space); 
+• number of full-time employees",Admin
+8.17,"With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities","1. Under this field, for the ecologically sensitive areas reported by the entity at Question 10 of Essential indicators under Principle 6, the entity can report any impact of its operations that could adversely affect the integrity of such an area, either directly or indirectly, by substantially changing its ecological features, structures, and functions across its whole area, and over the long term, so that habitat, its population levels, and the particular species that make the habitat important cannot be sustained",Admin
+8.18,"If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of such initiatives, as per the following format:
+- Initiative undertaken 
+- Details of the initiative (Web-link, if any, may be provided along-with summary)
+- Outcome of the initiative",The entity shall disclose details of such initiatives & outcome under following heads: • Initiative undertaken • Details of the initiative • Outcome of the initiative,Admin
+8.19,Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.," Gives insight into the organization's preparation for potentially disruptive events & risk management strategy. The entity shall disclose details of any business continuity / disaster management plan set up by it, along with weblinks, if any",IT
+8.2,"Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation measures have been taken by the entity in this regard.","This disclosure informs stakeholders about entity’s awareness & involvement in actual / potential negative environmental impacts caused by its value chain.
+The organization’s ‘value chain’ includes the range of activities carried out by the organization, & by entities upstream & downstream from the organization, to bring the organization’s products or services from their conception to their end use. Entities upstream from the organization provide products or services used in the development of the organization’s own 
+products or services. Entities downstream from the organization are those that receive products or services from the organization. Entities in the value chain include entities beyond the first tier, both upstream & downstream.The entity shall disclose any significant adverse impact to the environment, arising from value chains of entity along with its climate-related supplier/customer engagement strategy",Legal
+8.21,Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts.,"The entity shall disclose the percentage of value chain partners that were assessed for environmental impacts by: • screening using environmental criteria & Location • Significant actual & potential negative environmental impacts identified in supply chain (Negative impacts include those that are either caused or contributed to by an entity, or that are directly linked to its operations, products, or services by its relationship with a supplier)",Secretarial
+8.22,"How many Green Credits have been generated: 
+ - By the company
+ - By the value chain partners",,Finance
+9.1,"Number of affiliations with trade and industry chambers/ associations and List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is a member of/ affiliated to.
+","It gives insight into whether or not an organization's affiliation with a particular trade & industry association influences the mission or objective of that particular association. Also, to find out whether an Associations’ primary objective of helping existing businesses to grow locally, expand into new markets & remain competitive in an increasingly complex & evolving global marketplace is being fulfilled or not.The entity shall disclose, in numbers, its affiliations with Trade & Industry chambers/associations & also the names of top 10 trade & industry chambers, the entity is a member of.",Finance
+9.2,"Provide details of corrective action taken or underway on any issues related to anti competitive conduct by the entity, based on adverse orders from regulatory authorities
+- Name of authority 
+- Brief of the case 
+- Corrective action taken","The entity shall disclose the details of corrective action taken under below heads:
+• Name of the Authority 
+• Brief of the case 
+• corrective action taken",Legal
+9.3,"Details of public policy positions advocated by the entity
+- Public policy advocated
+- Method resorted for such advocacy
+- Whether information available in public domain? (Yes/No) 
+- Frequency of Review by Board (Annually/ Half yearly/ Quarterly / 
+- Others –please specify) 
+- Web Link, if available","1. The listed shall disclose issues that are the focus of its participation in public policy development.
+2. Further, the entity shall provide the details of methods resorted to in each case including affiliation with other similar business entities by forming coalitions, representing through trade chambers, social marketing, etc. 
+3. The entity shall select Yes or No, as the case may be, for the availability of information on each public policy advocated in public domain. 
+4. Select the appropriate frequency of Board review, such as:  Quarterly, Half-yearly, Annually, Others(please specify)
+5. Also provide the link of the document containing details of such public policy position advocated in the public domain, if available.",Legal
+10.1,"Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year.
+- Name and brief details of project 
+- SIA Notification No.
+- Date of notification
+- Whether conducted by independent external agency (Yes / No)
+- Results communicated in public domain (Yes / No)
+- Relevant Web link","This disclosure shall be made, if the entity has undertaken SIA in compliance with laws such as the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",Secretarial
+10.2,"Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in the following format:
+- Name of Project for which R&R is ongoing 
+- State District 
+- No. of Project Affected Families (PAFs) 
+- % of PAFs covered by R&R 
+- Amounts paid to PAFs in the FY (In INR)","Large scale development projects involve huge land acquisition and thus forceful displacement of people from their land. Resettlement & Rehabilitation Plan (R & R Plan) helps to systematize the land acquisition process so as to achieve the satisfaction of the land owners and aids effective execution/development of the project with 100% social acceptability. This reduces the social risks associated with the project which may come up during the design and execution stage and may incur huge cost for managing those social issues. Preparation of R & R Plan is mandatory for all the projects involving land acquisition as per the R&R Act, 2013.
+The entity shall disclose requested information like (i) Name, (ii) place, (iii) no. of affected families, (iv) % of such families covered & (v) amounts paid for the ongoing R&R project.",Secretarial
+10.3,Describe the mechanisms to receive and redress grievances of the community,"Local communities are defined as persons or groups of persons living and/or working in any areas that are economically, socially or environmentally impacted (positively or negatively) by an organization’s operations. The local community can range from persons living adjacent to an organization's operations, to those living at a distance who are still likely to be impacted by these operations.",Legal
+10.4,"Percentage of input material (inputs to total inputs by value) sourced from suppliers in current and previous FY:
+- Directly sourced from MSMEs/ small producers 
+- Sourced directly from within the district and neighbouring districts","1. Small producers mean those where the owner herself or himself is a worker and includes informal and/or producers such as self-help groups and home-based workers as well as producer-owned entities such as cooperatives, producer companies. 2. MSME is defined by Ministry of MSME as: 
+-Micro: Investment in Plant and Machinery or Equipment not more than Rs.1 crore and Annual Turnover not more than Rs. 5 crore 
+-Small: Investment in Plant and Machinery or Equipment not more than Rs.10 crore and Annual Turnover not more than Rs. 50 crore
+-Medium: Investment in Plant and Machinery or Equipment not more than Rs.50 crore and Annual Turnover not more than Rs. 250 crore",Finance
+10.5,Job creation in smaller towns – Wages paid to persons employed in smaller towns (permanent or non-permanent /on contract) as % of total wage cost.,Place of employment of employees /workers (Place to be categorised based on with RBI classification system on rural / semi-urban / urban / metropolitan) ,Human Resource
+10.6,Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: Question 1 of Essential Indicators above),"A key element in managing impacts on people in local communities is assessment & planning in order to understand the actual & potential impacts, & strong engagement with local communities to understand their expectations & needs. There are many elements that can be incorporated into local community engagement, impact assessments, & development programs. This seeks to identify which elements have been consistently applied, organization-wide",Secretarial
+10.7,"Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by government bodies
+- State 
+- Aspirational District 
+- Amount spent (In INR)","As per the ‘Transformation of Aspirational Districts’ programme of the Government, a list of districts has been identified for quick and effective transformation. For additional details, refer to the following link: https://niti.gov.in/about-aspirational-districts_x0002_programm",Secretarial
+10.8,"(a) Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized /vulnerable groups? (Yes/No) 
+(b) From which marginalized /vulnerable groups do you procure? 
+(c) What percentage of total procurement (by value) does it constitute?","The entity shall disclose its procurement policy w.r.t. from suppliers such as marginalized or vulnerable groups, if any, & provide details of such procurement in terms of former’s percentage to total procurement (by value)",Secretarial
+10.9,"Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial year), based on traditional knowledge
+- Intellectual Property based on traditional knowledge Owned/ Acquired (Yes/No) 
+- Benefit shared (Yes / No)
+- Basis of calculating benefit share ","Provide brief information of intellectual properties based on traditional knowledge owned or acquired by the business in the current Financial Year, mention Yes / No for Owned or Acquired, as the case may be. Select Yes or No as the case may be whether benefit arising out of such IPRs are shared on the lines of Access to Biological Resources and Associated Knowledge and Benefits Sharing Regulations, 2014. Intellectual Properties Intellectual property refers to creations of the mind: such as inventions, literary, musical and artistic works, and symbols, names, images and designs used in commerce, for which the IP owners are granted certain exclusive rights under the corresponding national IP laws. Common types of IP include patents (inventions), copyrights, trademarks, industrial designs, software, geographic indications and trade secrets, etc. Traditional Knowledge refers to any indigenous, technical, ecological, scientific, medical or cultural knowledge which is not necessarily documented but is in use by or generally known to communities. Typical examples include antiseptic properties of neem, turmeric, etc. Briefly outline the basis for calculating the benefits shared by the company with the “owners” of such traditional knowledge",Finance
+10.1,"Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage of traditional knowledge is involved.
+- Name of authority 
+- Brief of the Case 
+- Corrective action taken ",Briefly disclose corrective actions taken based on adverse order in IPR related disputes wherein usage of traditional knowledge is involved as under following heads: • Name of authority • Brief of the Case • Corrective action taken,Legal
+10.11,"Details of beneficiaries of CSR Projects:
+- CSR Project 
+- No. of persons benefitted from CSR Projects 
+- % of beneficiaries from vulnerable and marginalized groups","For each CSR Project undertaken by the company, enter: (a) total number of beneficiaries, (b) percentage of such beneficiaries belonging to vulnerable and marginalised groups",Secretarial
+11.1,Describe the mechanisms in place to receive and respond to consumer complaints and feedback.,The entity shall share the details of its Grievance Redressal Mechanism for customer/consumer complaints & customer survey/feedback.,Customer Support
+11.2,"Turnover of products and/ services as a percentage of turnover from all products/service that carry information about (as % of total):
+- Environmental and social parameters relevant to the product
+- Safe and responsible usage
+- Recycling and/or safe disposal","It provides an overview to understand what could be potential risks & opportunities in terms of ESG compliances or investment or finance related to any product & its overall impact on the organization's turnover & financial standing.The entity shall disclose relevant data as % of entity's overall turnover for 
+following heads:
+• Environmental & social parameters relevant to the product
+• Safe & responsible usage
+• Recycling &/or safe disposal",Finance
+11.3,"Number of consumer complaints (received during the year and pending for resolution at the year end) in respect of the following for current and previous FY:
+- Data privacy
+- Advertising
+- Cyber-security
+- Delivery of essential services
+- Restrictive Trade Practices
+- Unfair Trade Practices
+- Other ","As per the consumer grievance redressal mechanism, the entity shall share the relevant data for complaints received during the year as well as those pending resolution at end of year for the current & previous financial years for: • Data privacy • Advertising • Cyber-security • Delivery of essential services • Restrictive Trade Practices • Unfair Trade Practices • Other",Legal
+11.4,"Details of instances of product recalls on account of safety issues (Number and Reason for Recall):
+- Voluntary
+- Forced",A product recall is the process of retrieving defective &/or potentially unsafe goods from consumers. Such data can reveal the extent of entity’s safety measures & their effectiveness.The entity shall disclose the number of forced as well as voluntary product recalls in a given year along with reasons for such recall.,Legal
+11.5,"Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-link of the policy.","This disclosure can help stakeholders assess a entity's cybersecurity risk & level of disclosures & provide regulators with information on whether additional legislative standards are necessary for encouraging companies to disclose more about their cybersecurity. Advertisers can collect and/or purchase highly detailed information about the habits and lives of buyers, and advertising strategies can be precisely targeted. Being part of an industry that uses large quantities of data about private citizens, advertising and marketing companies must weigh the benefits of targeted advertising versus customer concerns about data privacy",IT
+11.6,"Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities on safety of products / services","The entity shall disclose details of any corrective action/steps/measures taken /underway on issues relating to • advertising, & delivery of essential services; • cyber security & data privacy of customers; • re-occurrence of instances of product recalls; • penalty / action taken by regulatory authorities on safety of products / service",Legal
+11.7,"Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).","Describe the Channels / platforms where information on goods & services of the business can be accessed. For Example, websites of the entity, Mobile Apps, Help Desks, Call Centres, etc. Also, provide the link of the document containing such information if available in the public domain",IT
+11.8,Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.,"This disclosure provides an overview of procedures asset up by the entity to raise awareness regarding the nature & use of its products / services.he entity shall disclose relevant steps taken to inform & educate consumers about safe
+& responsible usage of products &/or services",Customer Support
+11.9,Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services,Access to this information helps customers to make informed purchasing choices.The entity shall disclose relevant mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.,Customer Support
+11.1,"Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not Applicable) If yes, provide details in brief.
+
+Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)","The entity shall firstly disclose whether it displays product information on the product over & above what Is mandated as per local laws in a Yes / No format. Next, the entity shall disclose whether it carries out any survey with regard to consumer satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or the entity as a whole, along with relevant details.",Customer Support
+11.11 / 1.4.8,"Provide the following information relating to data breaches: 
+a. Number of instances of data breaches along-with impact 
+b. Percentage of data breaches involving personally identifiable information of customer",The entity shall disclose following data for the current financial year: • Number of instances of data breaches along-with impact • Percentage of data breaches involving personally identifiable information of customers,IT
