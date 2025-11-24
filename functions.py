@@ -1,3 +1,4 @@
+from pathlib import Path
 from langchain_community.document_loaders import PyPDFLoader
 import pandas as pd
 import os
@@ -54,16 +55,26 @@ def get_answer(prompt):
     return response.output_text
 
 
-def process_pdf_get_ans(filepath):
+DATA_DIR = Path(__file__).resolve().parent / "data"
+
+
+def process_pdf_get_ans(filepath, progress_callback=None):
     print("started process")
     df = get_vector_df(filepath)
-    template = pd.read_csv('/Users/dhairya/cs projects/SusReach/data/146 Question BRSR Template.csv')
+    template_path = DATA_DIR / "146 Question BRSR Template.csv"
+    template = pd.read_csv(template_path)
     template['page_number'] = -1
+    total_questions = len(template)
+
+    def emit(stage, index):
+        if progress_callback:
+            progress_callback(stage, index, total_questions)
 
     for i in tqdm(range(len(template))):
         question = template['Reporting Requirement'].iloc[i]
         page_number = page_number_on_embd_df(question, df)
         template.loc[i, 'page_number'] = page_number
+        emit("matching", i + 1)
     
     print("calculated page numbers")
     
@@ -78,4 +89,7 @@ def process_pdf_get_ans(filepath):
             template.loc[i, "answer"] = get_answer(template['prompt'].iloc[i])
         except:
             template.loc[i, "answer"] = "Error caused NA"
+        emit("answering", i + 1)
+
+    emit("complete", total_questions)
     return template[["#Question Ref.", "Reporting Requirement", "Definitions", "Department", "answer"]]

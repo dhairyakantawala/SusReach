@@ -39,13 +39,33 @@ with st.form("upload_form"):
 if submit and uploaded_pdf:
     status = st.status("Preparing to process the report", expanded=True)
     status.write("Saving uploaded PDF")
+    progress_bar = st.progress(0, text="Initializing...")
     pdf_path = save_uploaded_pdf(uploaded_pdf)
+
+    def update_progress(stage, index, total):
+        stage_windows = {
+            "matching": (0.05, 0.55),
+            "answering": (0.55, 0.95),
+            "complete": (0.95, 1.0),
+        }
+        start, end = stage_windows.get(stage, (0.0, 0.05))
+        fraction = index / total if total else 0
+        progress_value = start + (end - start) * min(max(fraction, 0), 1)
+        label_map = {
+            "matching": "Aligning questions with report pages",
+            "answering": "Extracting answers",
+            "complete": "Finalizing CSV",
+        }
+        text = label_map.get(stage, "Preparing data")
+        progress_bar.progress(progress_value, text=f"{text} ({index}/{total})")
+
     try:
         status.write("Generating embeddings and aligning questions")
         with st.spinner("Analyzing PDF..."):
-            result_df = process_pdf_get_ans(pdf_path)
+            result_df = process_pdf_get_ans(pdf_path, progress_callback=update_progress)
         status.write("Formatting results")
         download_buffer = make_download(result_df)
+        progress_bar.progress(1.0, text="Done")
         status.update(label="Processing complete", state="complete")
         st.success("The report has been processed.")
         st.metric("Questions analyzed", len(result_df))
@@ -60,4 +80,3 @@ if submit and uploaded_pdf:
         Path(pdf_path).unlink(missing_ok=True)
 elif submit and not uploaded_pdf:
     st.error("Please upload a PDF to begin.")
-
